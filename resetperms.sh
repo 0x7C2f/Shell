@@ -1,0 +1,1 @@
+diskutil resetUserPermissions / `id -u`

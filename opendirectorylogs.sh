@@ -1,0 +1,1 @@
+sudo log stream --debug --predicate 'subsystem == "com.apple.opendirectoryd"'
