@@ -14,8 +14,7 @@ serverList=("gg.apple.com"
 "swscan.apple.com"
 "updates-http.cdn.apple.com"
 "updates.cdn.apple.com"
-"xp.apple.com"	
-)
+"xp.apple.com")
 
 for server in "${serverList[@]}"
 do
